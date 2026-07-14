@@ -1,1 +1,3 @@
 # LueYangYue.github.io
+Redirecting...
+<script>document.location="ukmsipp.me/SIPP/src/landing.html";</script>
